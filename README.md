@@ -1,0 +1,1 @@
+# -Approaches-of-Human-Activity-Recognition-Using-Smartphones
